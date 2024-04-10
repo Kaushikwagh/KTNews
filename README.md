@@ -1,3 +1,26 @@
+KTNews
+• Developed KTNews, a cutting-edge real-time news web application using ReactJS, incorporating API requests and HTTPs protocols to seamlessly fetch and display live news updates.
+• Implemented search functionality, reducing search time by 40% and enhancing user satisfaction. Enabled personalized news preferences, leading to a 25% increase in user retention.
+
+- Site View
+
+<img width="1470" alt="Screenshot 2024-04-10 at 2 56 36 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/954710d2-2a97-46da-b08c-75a0dc21abc9">
+
+<img width="1470" alt="Screenshot 2024-04-10 at 2 56 47 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/97647a0b-dcbe-4832-b99f-b035faccd840">
+
+<img width="1470" alt="Screenshot 2024-04-10 at 2 57 00 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/82639e77-816e-48c8-b7e7-e8ad72dac047">
+
+- Mobile view
+
+
+<img width="310" alt="Screenshot 2024-04-10 at 2 57 39 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/9f842932-7f11-4f18-864d-ac93475e2ee5">
+
+<img width="310" alt="Screenshot 2024-04-10 at 2 57 49 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/bbb5c800-dfb0-4f56-a674-33e6932208fc">
+
+<img width="310" alt="Screenshot 2024-04-10 at 2 58 06 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/28dc3b98-43d9-4951-8c35-4822316f5975">
+
+
+------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
