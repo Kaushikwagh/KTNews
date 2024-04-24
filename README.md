@@ -4,6 +4,9 @@ KTNews
 
 - Site View
 
+<img width="1470" alt="Screenshot 2024-04-24 at 2 21 34 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/a17b5da4-c5e2-4832-8764-0f25fa329113">
+
+
 <img width="1470" alt="Screenshot 2024-04-10 at 2 56 36 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/954710d2-2a97-46da-b08c-75a0dc21abc9">
 
 <img width="1470" alt="Screenshot 2024-04-10 at 2 56 47 PM" src="https://github.com/Kaushikwagh/KTNews/assets/142978390/97647a0b-dcbe-4832-b99f-b035faccd840">
